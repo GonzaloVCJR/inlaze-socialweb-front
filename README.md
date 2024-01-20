@@ -1,3 +1,11 @@
+# Instalación Frontend
+
+escribir en el terminar `npm i` para instalar las dependencias necesarias para iniciar el servidor
+
+# Frontend run
+
+escribir en el terminar `npm run start` para inicializar el servidor y previsualizar la app no sin antes tener el back iniciado para poder tener un correcto funcionamiento de la app
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
